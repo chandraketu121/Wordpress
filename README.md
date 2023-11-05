@@ -5,7 +5,7 @@ To install and deploy WordPress on an Ubuntu server with Nginx and MySQL, you ca
    You can use SSH to connect to your server. Open your terminal and use the following command, replacing "4.240.106.196" with your server's IP address:
 
    ```bash
-   ssh mohit@4.240.106.196
+   ssh ubuntu@ip
    ```
 
    You will be prompted to enter your password.
